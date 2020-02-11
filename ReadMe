@@ -1,0 +1,6 @@
+  Para o desenvolvimento desta aplicação foi utilizado:
+   - Java 8;
+   - SpringBoot;
+   - Lombok;
+   - Banco H2;
+   - Mockito.
